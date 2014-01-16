@@ -1,0 +1,11 @@
+$mkdir ~/Melanoma-Detection-Color
+# Creates a directory for your project called "Hello-World" in your user directory
+
+$cd ~/Melanoma-Detection-Color
+
+$git commit -m 'first commit'
+
+$git remote add origin https://github.com/username/Melanoma-Detection-Color.git
+# Creates a remote named "origin" pointing at your GitHub repository
+
+$git push origin master
